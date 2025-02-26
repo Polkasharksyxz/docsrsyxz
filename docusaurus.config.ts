@@ -7,8 +7,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Polkasharks',
+  tagline: 'Polkasharks are eating DOTs',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -118,12 +118,12 @@ const config: Config = {
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Socials',
+              href: 'https://bento.me/polkasharks',
             },
             {
               label: 'X',
-              href: 'https://x.com/docusaurus',
+              href: 'https://x.com/Polkasharks',
             },
           ],
         },
@@ -141,7 +141,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Polkasharks, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
